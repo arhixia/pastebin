@@ -8,3 +8,6 @@ View Paste Details: Detailed view of each paste including title, content, expira
 Expiration: Users can set an optional expiration date for each paste.
 Copy URL: Easily copy the URL of each paste for sharing or bookmarking.
 Responsive Design: Responsive UI ensures compatibility across devices.
+
+main
+![canvas](https://github.com/user-attachments/assets/3f2bd41e-b006-4c07-8419-4f49c8c47617)

@@ -1,0 +1,52 @@
+.app-header {
+  background-color: #282c34;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left h1 {
+  margin: 0;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-right > * {
+  margin-left: 10px;
+}
+
+.header-link {
+  color: white;
+  text-decoration: none;
+  padding: 8px 12px;
+  border: 1px solid white;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.header-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.username {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.logout-button, .add-paste-button {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.logout-button:hover, .add-paste-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,22 @@
+/* ItemDetail.css */
+
+.item-detail-container {
+  margin: 20px;
+}
+
+.item-detail-container h1 {
+  margin-bottom: 10px;
+}
+
+.item-detail-container p {
+  margin-bottom: 10px;
+}
+
+.item-detail-container small {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.item-detail-container button {
+  margin-top: 10px;
+}

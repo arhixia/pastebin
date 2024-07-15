@@ -16,6 +16,6 @@ main
 add
 ![Без имени](https://github.com/user-attachments/assets/b4129721-1132-4ca0-b974-fabf4fb7e338)
 
-View Details
+View Details and unique url (f"http://localhost:3000/{self.id}")
 ![Без имени](https://github.com/user-attachments/assets/a9e38e68-dd02-43ac-ad8b-ea967c4101a7)
 ![Без имени](https://github.com/user-attachments/assets/c279507e-3a0b-4f5f-9a74-18bab7c0575d)
